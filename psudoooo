@@ -1,0 +1,34 @@
+var badge = ......
+
+
+
+
+
+
+
+
+
+var form = reacr create class((
+
+
+
+
+
+
+var Form = React.createClass{
+	render () {
+	
+
+
+		return <div>
+			<Badge title='boom' number=5    />
+
+
+		</div>
+}
+
+
+
+
+
+))
